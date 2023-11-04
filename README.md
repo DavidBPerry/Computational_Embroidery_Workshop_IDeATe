@@ -3,9 +3,8 @@
 ## Intro :wave::smile:
 Welcome to the Studio for Creative Inquiry's **Computational Embroidery Workshop of 2023**! The goal of this workshop is to introduce the concepts and tools of computational embroidery as well as present enough compelling examples that you'll be excited to make some unique embroidered artifacts by the end of the day. To that end we'll begin the day explaining the **tools** of computational embroidery, then we'll walk through numerous **examples and artists talks**, then finally we'll give a work through some functional examples and then **work time**.
 
-This workshop is lead by David Perry & Tatyana Mustakos, both of whom were have worked with and created custom tools with PEmbroider.
+*This page is based off of the workshop page for the Feb. 2023 Comp. Embr. workshop hosted by the studio for Creative inquiry. OG page can be accessed [here](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/README.md)*
 
-*Find the link to the Studio's worshop page [here](https://studioforcreativeinquiry.org/events/computational-embroidery-workshop).*
 
 ### Table of Contents :page_with_curl:
 
