@@ -27,17 +27,14 @@ Welcome to the Studio for Creative Inquiry's **Computational Embroidery Workshop
 
 ### Timeline :timer_clock:
 
-February 25th, 2023
+Nov 5th, 2023
 
 | Time | Description |
 | --- | --- |
-|  *10:00* |  **Workshop Starts & Intros** |
-|  *10:30* |**Intro to Machines and PEmbroider**|
-|  *12:00* |lunch!|
-|  *12:30* |**Huw Messi**| 
-|  *1:15* |**Lea Albaugh** |
-|  *2:00* |**Examples of Other Artists & a Small Break** |
-|  *2:30* |**Computational Patchy Patches** |
+|  *1:00* |  **Workshop Starts & Intros** |
+|  *1:10* |**Intro to Machines and PEmbroider**|
+|  *2:00* |**Examples Artists & a Small Break** |
+|  *2:30* |**Computational Patches** |
 |  *3:30* |**Open Work Time**|
 |  *5:00* |**Show and Tell** |
 |  *5:30* |**Wrapping Things Up** |
@@ -45,13 +42,13 @@ February 25th, 2023
 
 ---
 ## The Tools - Intro to Machines and PEmbroider
-### What is a Sewing Machine?
+### What is an Embroidery Machine?
 
 ###### *Click [Here](https://docs.google.com/presentation/d/e/2PACX-1vTAdaZe6wcDj0Bdsu92sa7bdMMFb0F99oHa8dLMGpH5MlVAOQsQtwssvYYpROB5wzAfOXuxg8wqC0Gc/pub?start=false&loop=false&delayms=15000) for slide deck*
 
 ![Sewing Cat Gif](https://media.tenor.com/n-9i38BYM-EAAAAM/costura-swing.gif)
 
-Here discuss a lil' bit of the history and inner workings of sewing machines. Then we'll discuss how embroidery move fabric under the needle, during stitching, to create an image or design.
+Here we'll discuss the history and inner workings of sewing & embroidery machines. We'll dig into how embroidery machines move fabric under the needle, during stitching, to create an image or design.
 
 
 ### What is PEmbroider
