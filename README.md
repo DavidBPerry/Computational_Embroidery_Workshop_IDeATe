@@ -59,6 +59,7 @@ Here we'll discuss the history and inner workings of sewing & embroidery machine
 [PYembroidery installation](https://pypi.org/project/pyembroidery/)
 ##### Examples:
 [Huw Messie’s work](https://github.com/huwythechew/EmbroiderWorkflow)
+
 [Houdini & Python Integration](https://www.youtube.com/watch?v=oxtCK5YQ8x8)
 
 > #### PEmbroider Demo's *(will not be reviewed during workshop)*
