@@ -3,7 +3,7 @@
 ## Intro :wave::smile:
 Welcome the **November Computational Embroidery Workshop of 2023** hosted by IDeATe! The goal of this workshop is to introduce the concepts and tools of computational embroidery as well as present enough compelling examples that you'll be excited to make some unique embroidered artifacts by the end of the day. To that end we'll begin the day explaining the **tools** of computational embroidery, then we'll walk through numerous **examples and artists talks**, then we'll work through some functional examples together and then we'll go into **work time**.
 
-*This page is based off of the workshop page for the Feb. 2023 Comp. Embr. workshop hosted by the Studio for Creative inquiry. OG page can be accessed [here](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/README.md)*
+*This page is based off of the workshop page for the Feb. 2023 Comp. Embr. workshop hosted by the Studio for Creative Inquiry. OG page can be accessed [here](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/README.md)*
 
 
 ### Table of Contents :page_with_curl:
@@ -35,7 +35,7 @@ Nov 5th, 2023
 |  *1:10* |**Intro to Machines and PEmbroider**|
 |  *2:00* |**Examples Artists & a Small Break** |
 |  *2:30* |**Computational Patches** |
-|  *3:30* |**Open Work Time**|
+|  *2:45* |**Open Work Time**|
 |  *5:00* |**Show and Tell** |
 |  *5:30* |**Wrapping Things Up** |
 
@@ -58,6 +58,17 @@ Here we'll discuss the history and inner workings of sewing & embroidery machine
 
 [PEmbroider Cheat Sheet](https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet.md)
 
+#### PEmbroider Demo's *(will not be reviewed during workshop)*
+##### Example Demo 1 - Basic Shapes using the Template File (
+###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/PEmbroider_Template/PEmbroider_Template.pde) for the template file*
+###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/PEmbroider_Template_Complete/PEmbroider_Template_Complete.pde) for completed demo*
+This demonstration will walk you through the PEmbroider template file and show how to create some simple shapes
+
+
+##### Example Demo 2 - Freehand Draw
+###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/freehand_draw/freehand_draw.pde) for the drawing file*
+This demonstration will walk you through using the example/interactive_demo_2, which lets you draw embrioderies with your cursor
+A more robust version of this sketch exists at [examples/PEmbroider_editor](https://github.com/CreativeInquiry/PEmbroider/blob/master/examples/PEmbroider_Editor/PEmbroider_Editor.pde)
 
 ### Getting Set Up
 
@@ -71,25 +82,6 @@ Processing and PEmbroider should be installed before the workshop following the 
 ##### How to Install
 
   1. [Installing Processing and PEmbroider](https://docs.google.com/presentation/d/e/2PACX-1vRRvHZRXIBePEvfNOJps9N09HPVgnTRHcnVxAtIf0SRiQX-ZLimC-N8CHJ2XppZWlxxs4hwkUb9PLic/pub?start=false&loop=false&delayms=30000)
-
-
-### PEmbroider Demo
-*This section is an in person live demonstration*
-<!--  Live Demo of generative faces-->
-
-#### Demo 1 - Basic Shapes using the Template File
-###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/PEmbroider_Template/PEmbroider_Template.pde) for the template file*
-###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/PEmbroider_Template_Complete/PEmbroider_Template_Complete.pde) for completed demo*
-This demonstration will walk you through the PEmbroider template file and show how to create some simple shapes
-
-
-#### Demo 2 - Freehand Draw
-###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/freehand_draw/freehand_draw.pde) for the drawing file*
-
-This demonstration will walk you through using the example/interactive_demo_2, which lets you draw embrioderies with your cursor
-
-A more robust version of this sketch exists at [examples/PEmbroider_editor](https://github.com/CreativeInquiry/PEmbroider/blob/master/examples/PEmbroider_Editor/PEmbroider_Editor.pde)
-
 
 ### How to Use the Machine
 
