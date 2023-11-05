@@ -71,8 +71,7 @@ Here we'll discuss the history and inner workings of sewing & embroidery machine
 > A more robust version of this sketch exists at [examples/PEmbroider_editor](https://github.com/CreativeInquiry/PEmbroider/blob/master/examples/PEmbroider_Editor/PEmbroider_Editor.pde)
 
 ### Getting Set Up
-
-Processing and PEmbroider should be installed before the workshop following the [event page](https://studioforcreativeinquiry.org/events/computational-embroidery-workshop) instructions, but we will be taking a moment to go through the installation and assist with setup
+We'll take take a moment to go through the installation and assist with setup of PEmbroider.
 
 ##### Links to Download
 
