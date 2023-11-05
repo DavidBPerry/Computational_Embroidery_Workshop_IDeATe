@@ -109,7 +109,9 @@ We'll walk through the basic steps of running a design on the machine as enumera
 >Lea will be discussing creative explorations with textiles machines.
 >#### Additional Project Links
 >[Embroidered Computer - Irene Posch](http://www.ireneposch.net/embroidering-a-computer/)
+>
 >[Magna Carta (An Embroidery) - Cornelia Parker](https://en.wikipedia.org/wiki/Magna_Carta_(An_Embroidery))
+>
 >[Threadsteading - Lea Albaugh & CMU Textiles](https://dl.acm.org/doi/10.1145/2851581.2889466)
 
 ---
