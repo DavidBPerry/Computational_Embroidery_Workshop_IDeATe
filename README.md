@@ -45,7 +45,8 @@ Nov 5th, 2023
 Here we'll discuss the history and inner workings of sewing & embroidery machines. We'll dig into how embroidery machines move fabric under the needle, during stitching, to create an image or design.
 
 
-### Digitizing Tools: *PEmbroider and Other Opens Source Resources*
+### Digitizing Tools
+#### *PEmbroider and Other Opens Source Resources*
 ###### *Click [Here](https://docs.google.com/presentation/d/e/2PACX-1vTvHAkeKiNmpaEclSHen1-ROau-8CIkmksxLbkOZCaBrQ9BSF6G7DD-NdhMurh_-6aqw1FikYbM9SCa/pub?start=false&loop=false&delayms=60000) for slide deck*
 
 [PEmbroider](https://github.com/CreativeInquiry/PEmbroider)
