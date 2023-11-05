@@ -32,7 +32,7 @@ Nov 5th, 2023
 |  *2:10* |**Computational Patches & Worked Examples** |
 |  *2:45* |**Open Work Time**|
 |  *3:45* |**Show and Tell + Begin Cleanup** |
-|  *5:30* |**Wrapping Things Up** |
+|  *4:00* |**Workshop ends** |
 
 ---
 ## The Tools - Intro to Machines and PEmbroider
@@ -127,7 +127,7 @@ We'll walk through the basic steps of running a design on the machine as enumera
 4. Using embroidery machine interface (Huskavarna & Brother + Industrial Machine)
 5. Running your file!
 
-### How to get what you want fo
+### How to get what you want for 
 ###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000).*
 We walk through some techniques for creating dimensional and interesting pathches. See the next section for the project!
 
