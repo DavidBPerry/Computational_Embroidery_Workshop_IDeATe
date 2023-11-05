@@ -1,9 +1,9 @@
 # :thread: Computational Embroidery Workshop 2023 :thread:
 ---
 ## Intro :wave::smile:
-Welcome to the Studio for Creative Inquiry's **Computational Embroidery Workshop of 2023**! The goal of this workshop is to introduce the concepts and tools of computational embroidery as well as present enough compelling examples that you'll be excited to make some unique embroidered artifacts by the end of the day. To that end we'll begin the day explaining the **tools** of computational embroidery, then we'll walk through numerous **examples and artists talks**, then finally we'll give a work through some functional examples and then **work time**.
+Welcome the **November Computational Embroidery Workshop of 2023** hosted by IDeATe! The goal of this workshop is to introduce the concepts and tools of computational embroidery as well as present enough compelling examples that you'll be excited to make some unique embroidered artifacts by the end of the day. To that end we'll begin the day explaining the **tools** of computational embroidery, then we'll walk through numerous **examples and artists talks**, then we'll work through some functional examples together and then we'll go into **work time**.
 
-*This page is based off of the workshop page for the Feb. 2023 Comp. Embr. workshop hosted by the studio for Creative inquiry. OG page can be accessed [here](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/README.md)*
+*This page is based off of the workshop page for the Feb. 2023 Comp. Embr. workshop hosted by the Studio for Creative inquiry. OG page can be accessed [here](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/README.md)*
 
 
 ### Table of Contents :page_with_curl:
