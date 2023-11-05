@@ -127,13 +127,14 @@ We'll walk through the basic steps of running a design on the machine as enumera
 4. Using embroidery machine interface (Huskavarna & Brother + Industrial Machine)
 5. Running your file!
 
-### How to get what you want for 
+### Techniques and Tips
 ###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000).*
-We walk through some techniques for creating dimensional and interesting pathches. See the next section for the project!
+We walk through some techniques for creating dimensional and interesting patches. See the next section for the project!
 
 ### Patches Project
 ###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vQ9d60TNxQwBDGkGjD2NlqAZdWdSVCR6IYpXMld13OkkHtLOA68R7ryzWXJ3EKyPWxzzioLw_KydzDf/pub?start=false&loop=false&delayms=10000).*
 [Link to download patch templates](https://github.com/DavidBPerry/Computational_Embroidery_Workshop_Nov_2023/blob/main/Patches.zip)
+
 You'll be walking away from this workshop with a custom patch! Make something unique and experiment!
 
 ### Helpful tips for Worktime
