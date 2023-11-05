@@ -133,7 +133,7 @@ We walk through some techniques for creating dimensional and interesting pathche
 
 ### Patches Project
 ###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vQ9d60TNxQwBDGkGjD2NlqAZdWdSVCR6IYpXMld13OkkHtLOA68R7ryzWXJ3EKyPWxzzioLw_KydzDf/pub?start=false&loop=false&delayms=10000).*
-[Link to download patch templates] (https://github.com/DavidBPerry/Computational_Embroidery_Workshop_Nov_2023/blob/main/Patches.zip)
+[Link to download patch templates](https://github.com/DavidBPerry/Computational_Embroidery_Workshop_Nov_2023/blob/main/Patches.zip)
 You'll be walking away from this workshop with a custom patch! Make something unique and experiment!
 
 ### Helpful tips for Worktime
