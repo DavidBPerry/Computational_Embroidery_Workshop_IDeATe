@@ -49,15 +49,17 @@ Here we'll discuss the history and inner workings of sewing & embroidery machine
 ###### *Click [Here](https://docs.google.com/presentation/d/e/2PACX-1vTDBDLmPLPhcc85tgBovMhTISz8Hm1Bfshk7SNFJKDIkExUE9adX9-auB1LJMAKGUhet9xSzfrFICK8/pub?start=false&loop=false&delayms=6000) for slide deck*
 #### PEmbroider
 [PEmbroider](https://github.com/CreativeInquiry/PEmbroider)
+
 [PEmbroider Cheat Sheet](https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet.md)
 
 #### Inkstitch
 [Inkscape](https://inkscape.org/)
+
 [Inkstitch](https://inkstitch.org/docs/install/)
 
 #### PYembroidery
 [PYembroidery installation](https://pypi.org/project/pyembroidery/)
-##### Examples:
+
 [Huw Messie’s work](https://github.com/huwythechew/EmbroiderWorkflow)
 
 [Houdini & Python Integration](https://www.youtube.com/watch?v=oxtCK5YQ8x8)
