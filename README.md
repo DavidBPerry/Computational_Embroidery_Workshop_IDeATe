@@ -51,7 +51,7 @@ Nov 5th, 2023
 Here we'll discuss the history and inner workings of sewing & embroidery machines. We'll dig into how embroidery machines move fabric under the needle, during stitching, to create an image or design.
 
 
-### What is PEmbroider
+### What is PEmbroider + Other Opens Source Resources
 ###### *Click [Here](https://docs.google.com/presentation/d/e/2PACX-1vTvHAkeKiNmpaEclSHen1-ROau-8CIkmksxLbkOZCaBrQ9BSF6G7DD-NdhMurh_-6aqw1FikYbM9SCa/pub?start=false&loop=false&delayms=60000) for slide deck*
 
 [PEmbroider](https://github.com/CreativeInquiry/PEmbroider)
@@ -64,13 +64,38 @@ Here we'll discuss the history and inner workings of sewing & embroidery machine
 > ###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/PEmbroider_Template_Complete/PEmbroider_Template_Complete.pde) for completed demo*
 > This demonstration will walk you through the PEmbroider template file and show how to create some simple shapes
 
-
 > ##### Example Demo 2 - Freehand Draw
 > ###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/freehand_draw/freehand_draw.pde) for the drawing file*
 > This demonstration will walk you through using the example/interactive_demo_2, which lets you draw embrioderies with your cursor
 > A more robust version of this sketch exists at [examples/PEmbroider_editor](https://github.com/CreativeInquiry/PEmbroider/blob/master/examples/PEmbroider_Editor/PEmbroider_Editor.pde)
 
-### Getting Set Up
+---
+## Wonderful Embroidery Artists & Work!
+
+###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000)*
+
+>### More Info
+>#### Huw Messi
+>"[Huw Messi] is an artist who produces work in the realm of experimental digital media and textiles". [(Huw Messi)](https://huwmessie.com/)
+>[Huw's Github](https://github.com/huwythechew/EmbroiderWorkflow)
+>Huw will be discussing creating animations through embroidery.
+
+>#### Lea Albaugh
+>###### *Click [HERE](https://raw.githubusercontent.com/tatyanade/Computational_Embroidery_Workshop_2023/main/Lea-Albaugh_machine_embroidery_slides_Feb2023.pdf) for Lea's slides* 
+>"[Lea Albaugh] is a PhD student at the Carnegie Mellon University Human-Computer Interaction Institute, working with the Morphing Matter Lab and the DevLab, and informally with the Textiles Lab". [(Lea Albaugh)](http://lea.zone/)
+>Lea will be discussing creative explorations with textiles machines.
+
+>#### Additional Project Links
+>[Embroidered Computer - Irene Posch](http://www.ireneposch.net/embroidering-a-computer/)
+>
+>[Magna Carta (An Embroidery) - Cornelia Parker](https://en.wikipedia.org/wiki/Magna_Carta_(An_Embroidery))
+>
+>[Threadsteading - Lea Albaugh & CMU Textiles](https://dl.acm.org/doi/10.1145/2851581.2889466)
+
+---
+## Exploring Computational Embroidery Through Patches!
+
+### Getting Set Up &
 We'll take take a moment to go through the installation and assist with setup of PEmbroider.
 
 ##### Links to Download
@@ -92,30 +117,6 @@ We'll walk through the basic steps of running a design on the machine as enumera
 3. Transfering file to machine
 4. Using embroidery machine interface (Huskavarna & Brother + Industrial Machine)
 5. Running your file!
-
----
-## Wonderful Embroidery Artists & Work!
-
-###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000)*
-
->### More Info
->#### Huw Messi
->"[Huw Messi] is an artist who produces work in the realm of experimental digital media and textiles". [(Huw Messi)](https://huwmessie.com/)
->[Huw's Github](https://github.com/huwythechew/EmbroiderWorkflow)
->Huw will be discussing creating animations through embroidery.
->#### Lea Albaugh
->###### *Click [HERE](https://raw.githubusercontent.com/tatyanade/Computational_Embroidery_Workshop_2023/main/Lea-Albaugh_machine_embroidery_slides_Feb2023.pdf) for Lea's slides* 
->"[Lea Albaugh] is a PhD student at the Carnegie Mellon University Human-Computer Interaction Institute, working with the Morphing Matter Lab and the DevLab, and informally with the Textiles Lab". [(Lea Albaugh)](http://lea.zone/)
->Lea will be discussing creative explorations with textiles machines.
->#### Additional Project Links
->[Embroidered Computer - Irene Posch](http://www.ireneposch.net/embroidering-a-computer/)
->
->[Magna Carta (An Embroidery) - Cornelia Parker](https://en.wikipedia.org/wiki/Magna_Carta_(An_Embroidery))
->
->[Threadsteading - Lea Albaugh & CMU Textiles](https://dl.acm.org/doi/10.1145/2851581.2889466)
-
----
-## Exploring Computational Embroidery Through Patches!
 
 ### How to get what you want for with embroidered patches
 ###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000).*
