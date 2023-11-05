@@ -9,7 +9,7 @@ Welcome the **November Computational Embroidery Workshop of 2023** hosted by IDe
 ### Table of Contents :page_with_curl:
 
 1. [The Tools! How do we do Computational Embroidery?](#the-tools---intro-to-machines-and-pembroider)
-    1. [What Are Sewing Machines / Embroidery Machines](#what-is-a-sewing-machine)
+    1. [What Are Sewing Machines / Embroidery Machines](#what-is-an-embroidery-machine)
     2. [What is PEmbroider + Other Opens Source Resources](#what-is-pembroider)
 6. [Wonderful Embroidery Artists & Work! What does Computational and Experimental Embroidery look like?](Wonderful-Embroidery-Artists)
 10. [Exploring Computational Embroidery Through Patches!](#exploring-computational-embroidery-through-patches)
