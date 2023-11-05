@@ -129,9 +129,7 @@ You'll be walking away from this workshop with a custom patch! Make something un
 ### Helpful tips for Worktime
 1. [How to run the machine](https://docs.google.com/presentation/d/e/2PACX-1vQVq65vxieUifnK--Cz89FvC3j3btl6008KHzywgw5TtX3Pc2qGqh7uq2OmRntF-iHUWrgH4VbgR600/pub?start=false&loop=false&delayms=3000)
 2. [PEmbroider Cheat sheet](https://github.com/CreativeInquiry/PEmbroider/blob/master/PEmbroider_Cheat_Sheet.md)
-3. Machine file types:
-    1. **Brother:** .pes
-    2. **Husqvarna:** .vp3
+3. Machine file type for Brother: **.pes**
 #### Materials List
 1. Muslin
 2. Tear away or water soluble stabilizer
