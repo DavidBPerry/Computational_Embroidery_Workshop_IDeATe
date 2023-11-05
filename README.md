@@ -64,17 +64,6 @@ Here we'll discuss the history and inner workings of sewing & embroidery machine
 
 [Houdini & Python Integration](https://www.youtube.com/watch?v=oxtCK5YQ8x8)
 
-> #### PEmbroider Demo's *(will not be reviewed during workshop)*
-> ##### Example Demo 1 - Basic Shapes using the Template File
-> ###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/PEmbroider_Template/PEmbroider_Template.pde) for the template file*
-> ###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/PEmbroider_Template_Complete/PEmbroider_Template_Complete.pde) for completed demo*
-> This demonstration will walk you through the PEmbroider template file and show how to create some simple shapes
-
-> ##### Example Demo 2 - Freehand Draw
-> ###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/freehand_draw/freehand_draw.pde) for the drawing file*
-> This demonstration will walk you through using the example/interactive_demo_2, which lets you draw embrioderies with your cursor
-> A more robust version of this sketch exists at [examples/PEmbroider_editor](https://github.com/CreativeInquiry/PEmbroider/blob/master/examples/PEmbroider_Editor/PEmbroider_Editor.pde)
-
 ---
 ## Wonderful Embroidery Artists & Work!
 
@@ -104,7 +93,7 @@ Here we'll discuss the history and inner workings of sewing & embroidery machine
 ---
 ## Exploring Computational Embroidery Through Patches!
 
-### Getting Set Up &
+### Getting Pembroider Setup
 We'll take take a moment to go through the installation and assist with setup of PEmbroider.
 
 ##### Links to Download
@@ -115,6 +104,21 @@ We'll take take a moment to go through the installation and assist with setup of
 ##### How to Install
 
   1. [Installing Processing and PEmbroider](https://docs.google.com/presentation/d/e/2PACX-1vRRvHZRXIBePEvfNOJps9N09HPVgnTRHcnVxAtIf0SRiQX-ZLimC-N8CHJ2XppZWlxxs4hwkUb9PLic/pub?start=false&loop=false&delayms=30000)
+
+#### PEmbroider Demo's *(will not be reviewed during workshop)*
+##### Example Demo 1 - Basic Shapes using the Template File
+###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/PEmbroider_Template/PEmbroider_Template.pde) for the template file*
+###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/PEmbroider_Template_Complete/PEmbroider_Template_Complete.pde) for completed demo*
+This demonstration will walk you through the PEmbroider template file and show how to create some simple shapes
+
+##### Example Demo 2 - Freehand Draw
+###### *click [HERE](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/blob/main/Examples/freehand_draw/freehand_draw.pde) for the drawing file*
+This demonstration will walk you through using the example/interactive_demo_2, which lets you draw embrioderies with your cursor
+A more robust version of this sketch exists at [examples/PEmbroider_editor](https://github.com/CreativeInquiry/PEmbroider/blob/master/examples/PEmbroider_Editor/PEmbroider_Editor.pde)
+
+#### InkStitch Demo
+This in person demo, will walk you through the basics of creating an embroidered design and exporting for the embroidery machine.
+
 
 ### How to Use the Machine
 
