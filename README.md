@@ -75,13 +75,17 @@ Here we'll discuss the history and inner workings of sewing & embroidery machine
 ###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vRwse4TtG8VSkO8onIKhHigl0xn3PmlJVxeHjHBQ6iU5O0AwijhrTe6jEShGl6ci5QKUn556YA1CCbx/pub?start=false&loop=false&delayms=3000)*
 
 >### Huw Messi
->"[Huw Messi] is an artist who produces work in the realm of experimental digital media and textiles". [(Huw Messi)](https://huwmessie.com/)
+>"[Huw Messi] is an artist who produces work in the realm of experimental digital media and textiles". See his website [here](https://huwmessie.com/)
+>
 >[Huw's Github](https://github.com/huwythechew/EmbroiderWorkflow)
+>
 >Huw will be discussing creating animations through embroidery.
 
 >### Lea Albaugh
->###### *Click [HERE](https://raw.githubusercontent.com/tatyanade/Computational_Embroidery_Workshop_2023/main/Lea-Albaugh_machine_embroidery_slides_Feb2023.pdf) for Lea's slides* 
+>###### *Click [HERE](https://raw.githubusercontent.com/tatyanade/Computational_Embroidery_Workshop_2023/main/Lea-Albaugh_machine_embroidery_slides_Feb2023.pdf) for Lea's slides*
+>
 >"[Lea Albaugh] is a PhD student at the Carnegie Mellon University Human-Computer Interaction Institute, working with the Morphing Matter Lab and the DevLab, and informally with the Textiles Lab". [(Lea Albaugh)](http://lea.zone/)
+>
 >Lea will be discussing creative explorations with textiles machines.
 
 >### Additional Project Links
