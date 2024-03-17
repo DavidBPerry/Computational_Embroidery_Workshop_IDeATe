@@ -29,8 +29,8 @@ Nov 5th, 2023
 |  *1:10* |**Intro to Machines and PEmbroider and other tools**|
 |  *1:45* |**Examples work** |
 |  *2:00* |**5 Min Break** |
-|  *2:10* |**Computational Patches & Worked Examples** |
-|  *2:45* |**Open Work Time**|
+|  *2:05* |**Sampler & Worked Examples** |
+|  *2:30* |**Open Work Time**|
 |  *3:45* |**Show and Tell + Begin Cleanup** |
 |  *4:00* |**Workshop ends** |
 
