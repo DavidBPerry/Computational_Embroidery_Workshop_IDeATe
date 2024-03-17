@@ -14,7 +14,7 @@ Welcome the **Computational Embroidery Workshop** hosted by IDeATe! The goal of 
 6. [Wonderful Embroidery Artists & Work! What does Computational and Experimental Embroidery look like?](Wonderful-Embroidery-Artists)
 10. [Exploring Computational Embroidery Through Patches!](#exploring-computational-embroidery-through-patches)
     1. [Examples](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/edit/main/README.md#how-to-get-what-you-want-for-with-embroidered-patches)
-    2. [Project Prompt](https://github.com/tatyanade/Computational_Embroidery_Workshop_2023/edit/main/README.md#patches-project)
+    2. [Samples Project](https://github.com/DavidBPerry/Computational_Embroidery_Workshop_IDeATe/blob/main/README.md#sample-project)
     3. [Helpful tips & links for Worktime](#helpful-tips-for-worktime)
 
 
