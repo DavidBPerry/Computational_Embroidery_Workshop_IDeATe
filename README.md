@@ -148,7 +148,5 @@ You'll be walking away from this workshop with a custom patch! Make something un
 2. Tear away or water soluble stabilizer
 3. USB Stick (shared)
 ### Additional Links
-1. [Spiral Image](https://github.com/tatyanade/Embroid_Experiments/tree/main/SPIRAL_DRAW/spiral_test_Image)
----
 
 ## Show & Tell!!!
