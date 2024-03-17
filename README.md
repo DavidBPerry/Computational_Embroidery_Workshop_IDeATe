@@ -91,9 +91,10 @@ Here we'll discuss the history and inner workings of sewing & embroidery machine
 >[Threadsteading - Lea Albaugh & CMU Textiles](https://dl.acm.org/doi/10.1145/2851581.2889466)
 
 ---
-## Exploring Computational Embroidery Through Patches!
+## Computational Embroidery Sampler
+[Link do download folder](https://drive.google.com/drive/folders/1O8k6lQbwViCfQV5E4CZiYeHngbEfi_gY)
 
-### Getting Pembroider Setup
+### Getting Pembroider Setup - WILL NOT BE REVIEWED
 We'll take take a moment to go through the installation and assist with setup of PEmbroider.
 
 ##### Links to Download
@@ -116,9 +117,6 @@ This demonstration will walk you through the PEmbroider template file and show h
 This demonstration will walk you through using the example/interactive_demo_2, which lets you draw embrioderies with your cursor
 A more robust version of this sketch exists at [examples/PEmbroider_editor](https://github.com/CreativeInquiry/PEmbroider/blob/master/examples/PEmbroider_Editor/PEmbroider_Editor.pde)
 
-#### InkStitch Demo
-This in person demo, will walk you through the basics of creating an embroidered design and exporting for the embroidery machine.
-
 
 ### How to Use the Machine
 
@@ -135,9 +133,9 @@ We'll walk through the basic steps of running a design on the machine as enumera
 ###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vTgc-OyskjZIaIB5jNzxxukyqoVCDe2XmsWOVkLA8TZQuS8MAPX_eZnAIyRwa_gKI4ocLUE1fDItWiu/pub?start=false&loop=false&delayms=3000).*
 We walk through some techniques for creating dimensional and interesting patches. See the next section for the project!
 
-### Patches Project
-###### *Link to slide deck [here](https://docs.google.com/presentation/d/e/2PACX-1vQ9d60TNxQwBDGkGjD2NlqAZdWdSVCR6IYpXMld13OkkHtLOA68R7ryzWXJ3EKyPWxzzioLw_KydzDf/pub?start=false&loop=false&delayms=10000).*
-[Link to download patch templates](https://github.com/DavidBPerry/Computational_Embroidery_Workshop_Nov_2023/blob/main/Patches.zip)
+### Sample Project
+###### *Link to slide deck [here](https://docs.google.com/presentation/d/11LFdRwMDmjA3-qqx1tH4lMlwLxyzUstXvQDjYxj5B_s/edit#slide=id.g126b4c033a3_0_5).*
+[Link to download patch templates](https://drive.google.com/drive/folders/1O8k6lQbwViCfQV5E4CZiYeHngbEfi_gY)
 
 You'll be walking away from this workshop with a custom patch! Make something unique and experiment!
 
