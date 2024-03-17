@@ -1,4 +1,4 @@
-# :thread: Computational Embroidery Workshop 2023 :thread:
+# :thread: Computational Embroidery Workshop :thread:
 ---
 ## Intro :wave::smile:
 Welcome the **Computational Embroidery Workshop** hosted by IDeATe! The goal of this workshop is to introduce the concepts and tools of computational embroidery as well as present enough compelling examples that you'll be excited to make some unique embroidered artifacts by the end of the day. To that end we'll begin the day explaining the **tools** of computational embroidery, then we'll walk through numerous **examples and artists talks**, then we'll work through some functional examples together and then we'll go into **work time**.
