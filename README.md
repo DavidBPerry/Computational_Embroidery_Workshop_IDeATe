@@ -135,7 +135,7 @@ We walk through some techniques for creating dimensional and interesting patches
 
 ### Sample Project
 ###### *Link to slide deck [here](https://docs.google.com/presentation/d/11LFdRwMDmjA3-qqx1tH4lMlwLxyzUstXvQDjYxj5B_s/edit#slide=id.g126b4c033a3_0_5).*
-[Link to download patch templates](https://drive.google.com/drive/folders/1O8k6lQbwViCfQV5E4CZiYeHngbEfi_gY)
+[Link to downloads](https://drive.google.com/drive/folders/1O8k6lQbwViCfQV5E4CZiYeHngbEfi_gY)
 
 You'll be walking away from this workshop with a custom patch! Make something unique and experiment!
 
